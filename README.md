@@ -126,89 +126,10 @@ This messaging application differs from others as the theme was specifically sel
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Use React for the front end
-- [x] Use GraphQL with a Node.js and Express.js server.
-- [x] Use MongoDB and the Mongoose ODM for the database
-- [x] Use queries and mutations for retrieving, adding, updating, and deleting data
-- [x] Deployed using Heroku with data
-- [x] Polished UI
-- [x] Responsive
-- [x] Interactive (accept and respond to user input)
-- [x] JWT authentication included
-- [x] Protect sensitive API key information on the server
-- [x] Clean repository that meets quality coding standards
-- [x] High-quality README
-
-
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-### Tasks and Roles 
-Phoenix Ouyang
-> Created and set up Login/Sign up forms, created authentications and instant page reload. <br>
-> Created functional chat feature.<br>
-> Styling
----
-Julia Bernst
-> Created user profile page and picture upload feature.
-> Styling
----
-Karim Nasreddine
-> implemented chat request<br>
-> set up models for users, Messages and Chats<br>
-> Styling<br>
-> Deployed application
----
-Rajvir Dhanoa
-> User Settings<br>
-> created readme document<br>
-> styling 
----
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Repository: [https://github.com/UTOR-Group-6/messaging-app](hhttps://github.com/UTOR-Group-6/messaging-app)
-
----
-Phoenix Ouyang
-> [https://github.com/phoenixouyang](https://github.com/phoenixouyang)
-
----
-Julia Bernst
-> [https://github.com/jubernst](https://github.com/jubernst)
-
----
-Karim Nasreddine
-> [https://github.com/KareemND](https://github.com/KareemND)
-
----
-Rajvir Dhanoa
-> [https://github.com/phoenixouyang](https://github.com/phoenixouyang)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
